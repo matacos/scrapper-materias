@@ -35,7 +35,6 @@
 67.00	Tesis de Ingeniería Mecánica	18	140 créditos
 67.24	Proyecto de Instalaciones Industriales	6	65.06 - 67.18
 77.01	Higiene y Seguridad del Trabajo	4	77.05
-67.00	Tesis de Ingeniería Mecánica	continúa
 67.98	Trabajo Profesional de Ing. Mecánica A (área Diseño Mecánico)	14	
 67.99	Trabajo Profesional de Ing. Mecánica B (área Termomecánica)	14	
 61.06	Probabilidad y Estadística A	4	61.03

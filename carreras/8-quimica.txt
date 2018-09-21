@@ -24,8 +24,6 @@
 77.08	Seguridad Ambiental y del Trabajo B	4	76.05
 76.00	Tesis de Ingeniería Química	24	140 créditos
 76.99	Trabajo Prof. de Ing. Química	12	76.04 - 76.05
-76.00	Tesis de Ingeniería Química	continúa
-76.99	Trabajo Prof. de Ing. Química	continúa
 61.06	Probabilidad y Estadística A	4	61.03
 62.13	Física III C	6	62.04
 62.18	Física de Fluidos	4	76.03
