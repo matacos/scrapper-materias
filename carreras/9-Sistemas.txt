@@ -1,0 +1,50 @@
+61.03	Análisis Matemático II A	8	C.B.C.
+61.08	Álgebra II A	8	C.B.C.
+75.40	Algoritmos y Programación I	6	C.B.C.
+61.07	Matemática Discreta	6	C.B.C.
+75.03	Organización del Computador	8	75.40
+75.41	Algoritmos y Programación II	6	75.40
+61.09	Probabilidad y Estadística B	6	61.03 - 61.08
+71.12	Estructura de las Organizaciones	6	C.B.C.
+75.06	Organización de Datos	6	75.03 - 75.41
+75.07	Algoritmos y Programación III	6	75.03 - 75.41
+71.13	Información en las Organizaciones	6	71.12
+75.08	Sistemas Operativos	6	75.06
+75.09	Análisis de la Información	6	75.06 - 75.07
+75.42	Taller de Programación I	4	75.03 - 75.41
+71.14	Modelos y Optimización 1	6	61.07 - 61.03 - 61.08
+75.10	Técnicas de Diseño	6	75.09
+75.15	Base de Datos	6	75.09
+71.15	Modelos y Optimización II	6	71.14 - 61.09
+71.16	Administración de Proyectos	6	71.12 - 71.14
+75.17	Implantación de Sistemas	6	75.10
+75.18	Proyectos Informáticos	6	71.13 - 71.16 - 75.17
+71.17	Derecho Informático	4	sin correlativas asignadas
+71.18	Estructura Económica Argentina	4	sin correlativas asignadas
+71.20	Modelos y Optimización III	6	71.15
+71.46	Ingeniería Económica	6	71.13
+75.12	Análisis Numérico I	6	61.03 - 61.08 - 75.41
+75.14	Lenguajes Formales	6	61.07
+75.16	Lenguajes de Programación	6	75.14Res(CD)4175/05(*)
+75.19	Teoría de Comunicación	6	75.08
+75.20	Arquitecturas y Configuración	6	75.08
+75.22	Concurrencia	8	75.08
+75.23	Inteligencia Artificial	6	75.41
+75.24	Teoría de la Programación	4	75.41
+75.26	Simulación	6	61.09
+75.27	Algoritmos y Programación IV	6	75.07
+75.29	Teoría de Algoritmos I	6	61.07 - 75.41
+75.32	Práctica Profesional	3	71.13 - 75.10 - 75.15
+75.33	Redes y Teleprocesamientos I	6	75.08 - 75.15
+75.34	Redes y Teleprocesamientos II	6	75.33
+75.36	Seminario y Lógica de Bases de Datos	3	75.15
+75.38	Análisis Numérico II A	6	75.12
+75.39	Aplicaciones Informáticas	6	75.08 - 75.09
+75.50	Introducción a los Sistemas Inteligentes	6	61.09 - 71.14
+75.71	Seminario de Ingeniería de Inf. I	3	75.07
+75.72	Seminario de Ingeniería de Inf. II	3	75.41 - 75.06
+78.01	Idioma Inglés	4	C.B.C.
+78.02	Idioma Alemán	4	C.B.C.
+78.03	Idioma Francés	4	C.B.C.
+78.04	Idioma Italiano	4	C.B.C.
+78.05	Idioma Portugués	4	C.B.C.

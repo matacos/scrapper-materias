@@ -1,0 +1,69 @@
+61.03	Análisis Matemático II A	8	CBC
+62.01	Física I A	8	CBC
+63.02	Química I	8	CBC
+61.08	Álgebra II A	8	CBC
+62.04	Física II B	6	61.03 - 62.01
+63.03	Química II	8	63.02
+75.01	Computación	4	CBC
+63.04	Química III	10	63.02
+75.12	Análisis Numérico I	6	61.03 - 61.08 - 75.01
+76.01	Introduc. a la Ingeniería Química I	8	61.03 - 61.08 - 63.02 - 63.03 - 75.01
+61.14	Matemática Especial para Ing. Química	8	61.03 - 61.08
+63.06	Química Física	I	8	62.04 - 63.02
+76.02	Introduc. a la Ingenieria Química II	8	76.01
+63.05	Química Analítica	8	63.03
+63.07	Química Física II	6	63.06
+76.03	Operaciones I	10	61.14 - 76.02
+76.04	Operaciones Unitarias II	8	76.03
+76.05	Operaciones Unitarias III	8	63.06 - 76.03
+65.43	Ingeniería de las Instalaciones I	6	62.04 - 76.02
+76.08	Ingeniería de las Reacciones Químicas	8	63.07 - 76.05 - 75.12
+77.07	Ingeniería de las Instalaciones II	10	62.04 - 76.02
+76.09	Instrum. y Control de Plantas Químicas	8	76.04 - 76.05
+71.28	Leg. y Ejer. Profesional de la Ing. Química	4	140 créditos
+77.08	Seguridad Ambiental y del Trabajo B	4	76.05
+76.00	Tesis de Ingeniería Química	24	140 créditos
+76.99	Trabajo Prof. de Ing. Química	12	76.04 - 76.05
+76.00	Tesis de Ingeniería Química	continúa
+76.99	Trabajo Prof. de Ing. Química	continúa
+61.06	Probabilidad y Estadística A	4	61.03
+62.13	Física III C	6	62.04
+62.18	Física de Fluidos	4	76.03
+63.08	Análisis Instrumental	8	62.04 - 63.05
+63.09	Química Orgánica Especial	8	63.04
+63.10	Termodinámica Estadística	6	63.07
+64.04	Estática y Resistencia de Materiales A	8	61.03 - 61.08 - 62.01
+67.03	Medios de Representación C	4	CBC
+67.13	Conocimiento de Materiales I	6	63.04
+67.57	Elementos Finitos Avanzados en la Mecánica de Fluidos	6	67.58
+67.58	Introducción al Método de los Elementos Finitos	6	76.03 - 75.12
+67.59	Mecánica del Continuo	6	67.60 - 76.03
+67.60	Introducción al Análisis Tensorial	4	61.03 - 61.08
+71.31	Organización de la Producción	6	100 créditos
+75.38	Análisis Numérico II A	6	75.12
+76.11	Análisis de Sistemas y Optimización	4	76.05 - 75.12
+76.12	Microbiología Industrial	6	63.04 - 76.02
+76.13	Bioingeniería Industrial	6	76.12
+76.16	Electroquímica	4	63.07 - 76.03
+76.17	Procesos Electroquímicos	4	76.16
+76.18	Físicoquímica Especial	6	63.07
+76.19	Procesos Fermentativos	4	76.13
+76.20	Ing. de las Reacciones Químicas II	6	76.08
+76.22	Fundamentos de la Ing. de Reservorios	8	76.03
+76.23	Recuperación Asistida de Petróleo	4	76.22
+76.24	Fund. de la Sim. Numérica de Reservorio	6	76.22
+76.26	Evaluación de Proyectos	6	76.02 - 76.03
+76.27	Control Estadístico de Procesos	6	61.06
+76.28	Gestión de Recursos en la Ind. de Procesos	4	76.03
+76.29	Industria de Procesos	4	76.05
+76.30	Industrias Alimenticias	4	76.04
+76.31	Simulación de Plantas Químicas B	6	76.05
+76.50	Diseño de Procesos	6	76.05
+76.51	Introducción a la Planificación Interactiva	4	190 créditos aprobados
+78.01	Idioma Inglés	4	CBC
+78.02	Idioma Alemán	4	CBC
+78.03	Idioma Francés	4	CBC
+78.04	Idioma Italiano	4	CBC
+78.05	Idioma Portugués	4	CBC
+76.32	Preservación de Alimentos	6	76.04 - 76.05 - 76.12
+76.33	Procesamiento Industrial de Alimentos	6	76.32

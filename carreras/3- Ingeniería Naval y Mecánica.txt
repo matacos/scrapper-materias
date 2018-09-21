@@ -1,0 +1,65 @@
+61.03	Análisis Matemático II A	8	CBC
+61.08	Álgebra II	8	CBC
+62.01	Física I A	8	CBC
+62.03	Física II A	8	61.03 - 62.01
+63.01	Química	6	CBC
+67.02	Medios de Representación B	6	CBC
+75.01	Computación	4	CBC
+62.06	Mecánica I	6	61.03 - 61.08 - 62.01
+64.11	Estabilidad I B	6	62.01 - 67.02
+67.07	Dibujo Mecánico	2	67.02
+67.13	Conocimiento de Materiales I	6	63.01
+75.12	Análisis Numérico I	6	61.03 - 61.08 - 75.01
+61.06	Probabilidad y Estádistica A	4	61.03
+64.12	Estabilidad II B	8	61.03 - 61.08 - 64.11 - 67.13
+67.04	Termodinámica I A	8	61.08 - 62.03
+71.23	Economía	4	61.03
+73.01	Arquitectura Naval I	6	64.11 - 67.02
+67.39	Dibujo para Ingenieros	6	67.07
+65.30	Electrotecnia General D	6	62.03
+66.04	Electrónica I	8	62.03
+67.18	Mecánica de los Fluídos B	6	67.04
+73.02	Construcción Naval I	6	73.01
+66.05	Electrónica II	6	66.04
+73.03	Arquitectrura Naval II	8	73.01
+73.04	Estructura de Buques	6	64.13 - 73.02
+73.05	Introducción a Máquinas Marinas	6	67.04
+73.40	Prácticas de Astilleros I	4	73.01 - 73.02
+61.16	Matemática para Ingenieros	8	61.03 - 61.08
+64.13	Estabilidad III B	6	64.12
+67.12	Mecanismos B	6	64.12
+73.06	Vibraciones de Estructuras	6	64.13 - 73.07 - 73.12
+73.07	Construcción Naval II	6	73.02
+73.09	Proyecto de Buques I	6	73.03 - 73.05 - 73.07
+73.10	Proyecto de Buques II	6	73.09
+73.11	Máquinas Marinas I	6	67.04
+73.12	Máquinas Marinas II	6	67.04
+73.41	Prácticas en Astilleros II	4	73.40
+73.00	Tésis de Ingeniería Naval	18	140 créditos
+73.99	Trabajo Profesional de Ing. Naval y Mecánica	0 1)	
+64.14	Método de los Elementos Finitos	4	64.13
+64.15	Estabilidad IV B	6	64.13
+64.16	Análisis Experimental de Tensiones	2	64.13
+67.23	Conversión de la Energía	2	120 créditos
+67.38	Tecnología Mecánica B	4	67.02 - 67.13
+67.61	Fundamentos Matemáticos de la Visión en Robótica	4	61.08 - 67.02
+68.03	Puertos y Vías Navegables	6	Sin correlativas asignadas
+68.08	Planeamiento del Transporte	6	Sin correlativas asignadas
+71.07	Investigación Operativa	8	71.31
+71.31	Organización de la Producción	6	73.02
+71.34	Gestión Presupuestaria	4	71.50 - 71.51
+71.36	Gestión de la Calidad	4	61.06 - 73.07
+71.38	Legislación General	4	73.07
+71.50	Ingeniería Económica I	4	71.31
+71.51	Ingeniería Económica II	4	71.50
+72.06	Automatización Industrial	4	Sin correlativas asignadas
+73.14	Navegación	4	73.02
+73.15	Máquinas Marinas III	6	73.05 - 73.11 - 73.12
+73.16	Construcción Naval III	6	73.07
+77.01	Higiene y Seguridad del Trabajo	4	73.02
+77.02	Introducción a la Ing. Ambiental	4	73.09
+78.01	Idioma Inglés	4	CBC
+78.02	Idioma Alemán	4	CBC
+78.03	Idioma Francés	4	CBC
+78.04	Idioma Italiano	4	CBC
+78.05	Idioma Portugués	4	CBC

@@ -1,0 +1,42 @@
+63.07	Química Física II	6	63.06
+76.03	Operaciones I	10	61.14 76.01
+76.12	Microbiología Industrial	6	63.04
+76.40	Introducción a la Bioquímica	2	63.04
+76.04	Operaciones Unitarias II	8	76.03
+76.05	Operaciones Unitarias III	8	63.06 - 76.03
+CEX 1	Fundamentos de la Preservación de Alimentos I	6	76.03 - 76.12 - 76.40
+63.05	Química Analítica	8	63.03
+65.43	Ingeniería de las Instalaciones I	6	76.05
+CEX 3	Fundamentos de la Preservación de Alimentos II 6	CEX 1	
+CEX 2	Toxicología de Alimentos	4	CEX 1 - 76.40
+76.08	Ingeniería de las Reacciones Química	8	63.07 - 75.12 - 76.05
+76.42	Ingeniería de las Instalaciones II B	4	76.05
+77.41	Gestión Ambiental en la Industria Alimentaria	4	76.05
+FYB 1	Legislación Alimentaria	2	CEX 1
+CEX 4	Tecnología de alimentos I	6	CEX 1 - 63.05
+71.55	Economía de la Empresa Alimentaria	6	CEX 3
+76.41	Biotecnología	4	76.08 - 76.12
+CEX 5	Tecnología de Alimentos II	4	CEX 1 - 63.05
+76.43	Instrumentación y Control	6	76.04 - 76.05
+76.90	Tesis de Grado de Ing. de Alimentos	12	
+76.44	Práctica Profesional	4	
+FYB 2	Nutrición Aplicada a Tecnología de Alimentos	2	76.40
+71.56	Legislación y Ejercicio Profesional de la Ingeniería de Alimentos	2	FYB 1 - 71.55
+CEX 6	Microbiología de Alimentos	6	76.12
+CEX 7	Tecnología de Alimentos III	4	CEX 3
+AG 1	Sistemas de Producción Agropecuaria y Calidad de Alimentos	4	CEX 5
+CEX 8	Análisis Avanzado de Alimentos	6	CEX 3
+71.03	Estadística Técnica	6	61.06
+71.31	Organización de la Producción	6	CEX 3 - 71.55
+71.33	Comercialización	4	CEX 3 - 71.55
+71.43	Logística Integral	4	CEX 3 - 71.55
+72.14	Diseño de Producto	4	CEX 3 - 71.55
+71.44	Recursos Humanos	4	FYB 1 - 71.55
+76.19	Procesos Fermentativos	4	76.41
+FYB 3	Gestión, Control y Garantía de la Calidad en la Industria Alimentaria	4	71.55
+71.57	Métodos Cuantitativos Aplicados en Sistemas Agroalimentarios	4	61.14
+78.01	Idioma Inglés	4	CBC
+78.02	Idioma Alemán	4	CBC
+78.03	Idioma Francés	4	CBC
+78.04	Idioma Italiano	4	CBC
+78.05	Idioma Portugués	4	CBC

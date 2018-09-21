@@ -1,0 +1,66 @@
+61.03	Análisis Matemático II A	8	CBC
+62.01	Física I A	8	CBC
+67.03	Medios de Representación C	4	CBC
+75.01	Computación	4	CBC
+61.08	Algebra II A	8	CBC
+62.04	Física II B	6	61.03 - 62.01
+63.01	Química	6	CBC
+61.06	Probabilidad y Estadística A	4	61.03
+61.10	Análisis Matemático III A	6	61.03 - 61.08
+65.01	Electrotecnia	8	61.08 - 62.04
+67.10	Calor y Termodinámica	6	62.01
+62.05	Física III	10	61.08 - 62.04 - 63.01
+62.08	Electromagnetismo A	6	61.08 - 62.04
+64.05	Estática y Resistencia de Materiales B	6	61.03 - 61.08 - 62.01
+65.36	Medidas Eléctricas	6	65.01
+65.09	Teoría de Circuitos	6	61.10 - 65.01
+66.04	Electrónica I	8	62.05 - 65.01
+75.12	Análisis Numérico I	6	61.03 - 61.08 - 75.01
+65.10	Teoría de Campos	6	62.08
+65.11	Tecnología de Materiales I	6	62.05 - 65.36
+67.36	Mecánica Aplicada	6	64.05
+65.12	Tecnología de Materiales II	4	65.11
+65.13	Teoría de Máquinas Eléctricas I	8	62.08 - 65.01
+67.37	Máquinas Energéticas	6	67.10
+65.14	Teoría de Máquinas Eléctricas II	6	65.13
+66.05	Electrónica II	6	66.04
+71.39	Leg. y Ejercicio Prof. de la Ing. Electricista B	4	100 créditos
+65.00	Tesis de Ingeniería Electricista	18	140 créditos
+65.00	Tesis de Ingeniería Electricista	continúa
+65.99	Trabajo Profesional de Ing. Electricista	12	
+62.11	Mecánica Racional	4	61.10 - 62.01
+65.15	Sistemas Eléctricos de Potencia	4	65.09 - 65.10 - 65.13
+65.16	Transmisión y Distribución de la Energía Eléctrica	4	65.09 - 65.13
+65.17	Centrales Eléctricas	4	65.13 - 67.37
+65.21	Accionamientos	4	66.04 - 67.36
+65.22	Aplicaciones Industriales de la Energía Eléctrica	6	65.12 - 66.04 - 67.10
+65.25	Construcciones Electromecánicas	6	65.12 - 65.13 - 67.36
+65.28	Control de Procesos Industriales	4	65.09 
+65.29	Electrónica Industrial	6	66.05
+65.33	Economía de la Energía Eléctrica	4	100 créditos
+65.34	Luminotecnia	4	65.36
+65.37	Energías Renovables	4	65.13 - 67.37
+65.38	Medidas Eléctricas Especiales	6	65.36
+65.39	Metrología y Téc. de Calibración Eléct.	4	65.36
+65.40	Uso Eficiente de la Energía Eléctrica	4	65.13
+65.41	Estaciones Transform. y de Distribución	4	65.13 - 65.09
+65.42	Sistemas de Protecciones Eléctricas	4	65.09 - 65.36 - 65.13
+65.44	Sistemas de Energía	4	65.01
+65.45	Regulación de Servicios Públicos	4	100 créditos
+65.46	Energía Eólica, Hidráulica y Marina	4	65.13
+65.47	Energía Solar, Geotérmica y de Biomasa	4	67.37
+66.01	Técnicas Digitales	6	61.08 - 75.01
+66.74	Señales y Sistemas	8	61.06 - 65.09
+66.18	Teoría de Control I	6	66.74
+66.32	Robótica	6	62.11 - 66.18
+67.38	Tecnología Mecánica B	4	67.36
+71.01	Introd. Economía y Org. de la Empresa	4	61.03
+71.06	Estructura Económica Argentina	4	71.01
+71.36	Gestión de Calidad	4	61.06
+77.01	Higiene y Seguridad del Trabjo	4	100 créditos
+77.02	Introducción a la Ing. Ambiental	4	100 créditos
+78.01	Idioma Inglés	4	CBC
+78.02	Idioma Alemán	4	CBC
+78.03	Idioma Francés	4	CBC
+78.04	Idioma Italiano	4	CBC
+78.05	Idioma Portugués	4	CBC

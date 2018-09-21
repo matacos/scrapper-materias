@@ -1,0 +1,66 @@
+61.03	Análisis Matemático II A	8	CBC
+62.01	Física I A	8	CBC
+63.01	Química	6	CBC
+61.06	Probabilidad y Estadística A	4	61.03
+61.08	Álgebra II A	8	CBC
+62.03	Física II A	8	61.03 - 62.01
+63.11	Química Aplicada A	6	63.01
+64.04	Estática y Resistenc. de Materiales A	8	61.03 - 61.08 - 62.01
+65.03	Electrotecnia General A	8	61.08 - 62.03
+67.03	Medios de Representación C	4	CBC
+75.01	Computación	4	CBC
+67.52	Termodinámica B	4	62.03
+71.01	Intr. a la Econom. y Org. de la Empresa	4	48 créditos
+72.01	Materiales Industriales I	6	63.11 - 64.04
+75.12	Análisis Numérico I	6	61.03 - 61.08 - 75.01
+67.12	Mecanismos B	6	64.04 - 67.03
+67.51	Máquinas Térmicas	4	67.52
+69.03	Mecánica de los Fluídos A	6	61.03 - 61.08 - 62.01
+71.03	Estadística Técnica	6	61.06
+71.04	Organización Industrial I	4	61.06 - 71.01
+71.05	Organización Industrial II	4	71.04
+71.06	Estructura Económica Argentina	6	71.01
+72.02	Industrias I	6	67.52 - 69.03 - 72.01
+71.07	Investigación Operativa	8	71.03
+72.04	Indust. de Procesos de Conformación	8	67.03 - 67.12 - 71.05 - 72.01
+72.18	Industrias II	8	72.02
+71.08	Organización Industrial III	6	71.05
+72.05	Arquitectura Industrial	4	64.04 - 72.18
+72.06	Automatización Industrial	4	65.03 - 67.12 - 72.18
+77.01	Higiene y Seguridad del Trabajo	4	72.02
+71.50	Ingeniería Económica I	4	71.05 - 71.06
+72.07	Industrias III	6	65.03 - 71.05 - 72.18
+72.00	Tesis de Ingeniería Industrial	18	140 créditos
+72.99	Trabajo Profesional de Ing. Industrial	18	71.08 - 72.02 - 72.05 - 72.18
+71.22	Leg. y Ejer. Prof. de la Ing. Industrial	4	100 créditos
+71.51	Ingeniería Económica II	4	71.50
+77.02	Introducción a la Ingeniería Ambiental	4	77.01
+72.00	Tesis de Ingeniería Industrial	continúa
+72.99	Trabajo Profesional de Ing. Industrial	continúa
+61.10	Análisis Matemático III A	8	61.03 - 61.08
+62.06	Mecánica I	6	61.03 - 61.08 - 62.01
+62.07	Mecánica II	4	61.10 - 62.06
+62.13	Física III C	6	61.08 - 62.03 - 63.01
+67.17	Taller	4	63.11 - 67.03 - 67.12
+71.32	Investigación Operativa Superior	4	71.07
+71.33	Comercializ. de Productos Industriales	4	71.08
+71.34	Gestión Presupuestaria	4	71.51
+71.35	Estadística Técnica Superior	6	71.03
+71.36	Gestión de Calidad	4	71.03 - 71.08
+71.37	Dirección de Manufactura	6	71.08
+71.43	Logística Integral	4	71.08
+71.44	Recursos Humanos	4	71.05
+71.45	Informática p/la Gestión de Empresas	4	71.08
+72.09	Industrias Plásticas	4	72.18
+72.10	Industrias de Celulosa y Papel	4	72.18
+72.11	Industrias Petroquímicas	4	72.18
+72.12	Industrias Textiles	4	72.02
+72.13	Materiales Industriales II	4	72.01
+72.14	Diseño de Productos	4	71.05 - 72.01
+72.15	Industrias de la Alimentación	4	72.18
+72.17	Industrias Petrolíferas	4	72.18
+78.01	Idioma Inglés	4	CBC
+78.02	Idioma Alemán	4	CBC
+78.03	Idioma Francés	4	CBC
+78.04	Idioma Italiano	4	CBC
+78.05	Idioma Portugués	4	CBC

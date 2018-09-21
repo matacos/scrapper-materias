@@ -1,0 +1,43 @@
+61.03	Análisis Matemático II A	8	CBC
+62.01	Física I A	8	CBC
+70.02	Geometría Descriptiva	6	CBC
+75.01	Computación	4	CBC
+61.15	Matemática Aplicada a la Agrimensura	8	CBC
+62.03	Física II A	8	61.03 - 62.01
+70.15	Cartografía	6	61.03
+71.02	Agrimensura Legal I	4	CBC
+61.06	Probabilidad y Estadística A	4	61.03
+70.04	Dibujo Topográfico	4	CBC
+70.08	Topografía I	6	CBC
+70.31	Información Rural	6	CBC
+71.24	Agrimensura Legal II	4	71.02
+70.07	Cálculo de Compensación	6	61.03
+70.09	Topografía II	6	70.08 - 70.02
+70.12	Geodesia I	6	70.08
+70.18	Catastro y Valuaciones	6	71.24 - 70.31
+70.11	Topografía III (anual)	16	70.07 - 70.09
+70.13	Geodesia II	6	70.12
+70.14	Fotogrametría I	8	70.09
+70.19	Levantamiento y Práctica Profesional (anual)	10	70.09 - 71.24
+70.11	Topografía III (anual)	(continúa)
+70.16	Fotogrametría II	4	70.14 - 70.07
+70.19	Levantamiento y Práctica Profesional (anual)	(continúa)
+70.30	Introducción a los Sistemas de Información Geográfica	6	70.15 - 75.01
+68.06	Transporte A	8	70.09
+68.11	Ordenamiento Rural y Urbano	4	68.06 - 70.18
+70.06	Geografía Física y Geología	4	62.01
+70.17	Geodesia III	6	70.13
+70.20	Fotointerpretación	4	70.14
+70.24	Levantamientos Hidrográficos	4	70.09
+70.26	Hidráulica Agrícola y Saneamiento	4	70.09
+70.27	Catastro	4	70.18
+70.32	Sistemas de Información Geográfica	4	70.09 70.15 70.301)
+71.23	Economía	4	61.03
+71.30	Agrimensura Legal III	6	71.24
+75.12	Análisis Numérico I	6	61.03 - 75.01
+77.02	Introducción a la Ingeniería Ambiental	4	70.15
+78.01	Idioma Inglés	4	CBC
+78.02	Idioma Alemán	4	CBC
+78.03	Idioma Francés	4	CBC
+78.04	Idioma Italiano	4	CBC
+78.05	Idioma Portugués	4	CBC
