@@ -19,9 +19,7 @@
 70.13	Geodesia II	6	70.12
 70.14	Fotogrametría I	8	70.09
 70.19	Levantamiento y Práctica Profesional (anual)	10	70.09 - 71.24
-70.11	Topografía III (anual)	(continúa)
 70.16	Fotogrametría II	4	70.14 - 70.07
-70.19	Levantamiento y Práctica Profesional (anual)	(continúa)
 70.30	Introducción a los Sistemas de Información Geográfica	6	70.15 - 75.01
 68.06	Transporte A	8	70.09
 68.11	Ordenamiento Rural y Urbano	4	68.06 - 70.18

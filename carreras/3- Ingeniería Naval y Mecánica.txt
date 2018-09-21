@@ -36,7 +36,7 @@
 73.12	Máquinas Marinas II	6	67.04
 73.41	Prácticas en Astilleros II	4	73.40
 73.00	Tésis de Ingeniería Naval	18	140 créditos
-73.99	Trabajo Profesional de Ing. Naval y Mecánica	0 1)	
+73.99	Trabajo Profesional de Ing. Naval y Mecánica	0	
 64.14	Método de los Elementos Finitos	4	64.13
 64.15	Estabilidad IV B	6	64.13
 64.16	Análisis Experimental de Tensiones	2	64.13

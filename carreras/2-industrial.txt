@@ -35,8 +35,6 @@
 71.22	Leg. y Ejer. Prof. de la Ing. Industrial	4	100 créditos
 71.51	Ingeniería Económica II	4	71.50
 77.02	Introducción a la Ingeniería Ambiental	4	77.01
-72.00	Tesis de Ingeniería Industrial	continúa
-72.99	Trabajo Profesional de Ing. Industrial	continúa
 61.10	Análisis Matemático III A	8	61.03 - 61.08
 62.06	Mecánica I	6	61.03 - 61.08 - 62.01
 62.07	Mecánica II	4	61.10 - 62.06

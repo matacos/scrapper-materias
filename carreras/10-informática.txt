@@ -26,8 +26,6 @@
 71.40	Legislación y Ejercicio Profesional de la Ing. en Informática	4	140 créditos
 75.00	Tesis de Ingeniería Informática	24	140 créditos
 75.99	Trabajo Profesional de Ing. Informática	12	140 créditos
-75.00	Tesis de Ingeniería Informática	continúa
-75.99	Trabajo Profesional de Ing. Informática	continúa
 71.13	Información en las Organizaciones	6	71.12
 75.44	Administración y Control de Proyectos Informáticos I	6	71.12 - 75.10
 75.45	Taller de Desarrollo de Proyectos I	6	75.10

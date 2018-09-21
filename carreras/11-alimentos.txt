@@ -7,7 +7,7 @@
 CEX 1	Fundamentos de la Preservación de Alimentos I	6	76.03 - 76.12 - 76.40
 63.05	Química Analítica	8	63.03
 65.43	Ingeniería de las Instalaciones I	6	76.05
-CEX 3	Fundamentos de la Preservación de Alimentos II 6	CEX 1	
+CEX 3	Fundamentos de la Preservación de Alimentos II	6	CEX 1
 CEX 2	Toxicología de Alimentos	4	CEX 1 - 76.40
 76.08	Ingeniería de las Reacciones Química	8	63.07 - 75.12 - 76.05
 76.42	Ingeniería de las Instalaciones II B	4	76.05

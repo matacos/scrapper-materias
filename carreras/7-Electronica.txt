@@ -19,8 +19,6 @@
 66.12	Introducción a Proyectos	4	140 créditos
 66.00	Tesis de Ingeniería Electrónica	24	140 créditos
 66.99	Trabajo Profesional de Ing. Electrónica	12	140 créditos
-66.00	Tesis de Ingeniería Electrónica	continúa
-66.99	Trabajo Profesional de Ing. Electrónica	continúa
 61.07	Matemática Discreta	6	CBC
 61.17	Teoría de Grafos (área Computadoras)	4	61.07
 61.18	Ecuaciones Diferenciales Ordinarias	6	61.03 - 61.08
