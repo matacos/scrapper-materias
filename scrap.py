@@ -35,6 +35,8 @@ with Path("materias_deptos.sql").open("w") as sql:
         
     materias=[] 
     values=[]
+    restricciones=[]
+    Restriccion=namedtuple("Restriccion",["cm_para","cd_para","creditos"])
     Correlatividad=namedtuple("Correlatividad",["cm_para","cd_para","cm_necesario","cd_necesario"])
     correlativas=[]
     for filename in path_carreras.glob("*.txt"):
@@ -65,7 +67,6 @@ with Path("materias_deptos.sql").open("w") as sql:
 
             
 
-            correlativas_materia=""
             try:
                 correlativas_texto=campos[3]
                 correlativas_normales=re.findall("[0-9][0-9]\.[0-9][0-9]",correlativas_texto)
@@ -89,8 +90,12 @@ with Path("materias_deptos.sql").open("w") as sql:
                         codigo_materia_correlativa,
                         codigo_depto_correlativa
                     ))
-            except:
-                pass
+                creditos_necesarios = re.findall("\d* créditos",correlativas_texto)
+                if len(creditos_necesarios)>0:
+                    creditos=creditos_necesarios[0].split(" ")[0]
+                    restricciones.append(Restriccion(codigo_materia,codigo_depto,creditos))
+            except Exception as e:
+                print(e)
             
             
 
@@ -112,5 +117,10 @@ with Path("materias_deptos.sql").open("w") as sql:
     #print(correlative_tuples_text)
     sql.write("insert into requires(dept,code,dept_required,code_required) values {};\n".format(correlative_tuples_text))
 
+    requisite_tuples_text=",\n    ".join([
+        "('{}','{}',{})".format(c.cd_para,c.cm_para,c.creditos) 
+        for c in restricciones
+    ])
 
+    sql.write("insert into requires_credits(dept,code,amount) values {};\n".format(requisite_tuples_text))
 

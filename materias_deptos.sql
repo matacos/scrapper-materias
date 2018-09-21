@@ -1,38 +1,38 @@
 insert into departments(code,name) values ('89','Hidráulica'),
    ('69','Hidráulica');
-insert into departments(code,name) values ('73','Ingeniería Naval'),
-   ('93','Ingeniería Naval');
-insert into departments(code,name) values ('97','Seguridad del trabajo y ambiente'),
-   ('77','Seguridad del trabajo y ambiente');
+insert into departments(code,name) values ('93','Ingeniería Naval'),
+   ('73','Ingeniería Naval');
+insert into departments(code,name) values ('77','Seguridad del trabajo y ambiente'),
+   ('97','Seguridad del trabajo y ambiente');
 insert into departments(code,name) values ('70','Agrimensura'),
    ('90','Agrimensura');
 insert into departments(code,name) values ('66','Electrónica'),
    ('86','Electrónica');
-insert into departments(code,name) values ('88','Transporte'),
-   ('68','Transporte');
+insert into departments(code,name) values ('68','Transporte'),
+   ('88','Transporte');
 insert into departments(code,name) values ('62','Física'),
    ('82','Física');
 insert into departments(code,name) values ('95','Computación'),
    ('75','Computación');
 insert into departments(code,name) values ('94','Construcciones y Estructuras'),
    ('74','Construcciones y Estructuras');
-insert into departments(code,name) values ('81','Matemática'),
-   ('61','Matemática');
+insert into departments(code,name) values ('61','Matemática'),
+   ('81','Matemática');
 insert into departments(code,name) values ('76','Ingeniería Química');
 insert into departments(code,name) values ('67','Ingeniería Mecánica'),
    ('87','Ingeniería Mecánica');
-insert into departments(code,name) values ('72','Tecnología Industrial'),
-   ('92','Tecnología Industrial');
-insert into departments(code,name) values ('91','Gestión'),
-   ('71','Gestión');
-insert into departments(code,name) values ('78','Idiomas'),
-   ('98','Idiomas');
+insert into departments(code,name) values ('92','Tecnología Industrial'),
+   ('72','Tecnología Industrial');
+insert into departments(code,name) values ('71','Gestión'),
+   ('91','Gestión');
+insert into departments(code,name) values ('98','Idiomas'),
+   ('78','Idiomas');
 insert into departments(code,name) values ('83','Química'),
    ('63','Química');
 insert into departments(code,name) values ('84','Estabilidad'),
    ('64','Estabilidad');
-insert into departments(code,name) values ('65','Electrotecnia'),
-   ('85','Electrotecnia');
+insert into departments(code,name) values ('85','Electrotecnia'),
+   ('65','Electrotecnia');
 insert into subjects(department_code,code,name) values ('61','03','Análisis Matemático II A'),
     ('61','08','Álgebra II A'),
     ('75','40','Algoritmos y Programación I'),
@@ -2525,3 +2525,33 @@ insert into requires(dept,code,dept_required,code_required) values ('75','03','7
     ('75','72','75','44'),
     ('75','73','75','07'),
     ('75','73','75','09');
+insert into requires_credits(dept,code,amount) values ('71','01',48),
+    ('72','00',140),
+    ('71','22',100),
+    ('71','25',100),
+    ('67','23',120),
+    ('67','00',140),
+    ('73','00',140),
+    ('67','23',120),
+    ('71','27',120),
+    ('66','12',140),
+    ('66','00',140),
+    ('66','99',140),
+    ('68','07',70),
+    ('71','21',120),
+    ('64','00',140),
+    ('68','10',140),
+    ('74','03',100),
+    ('68','07',70),
+    ('71','21',120),
+    ('64','00',140),
+    ('74','03',100),
+    ('68','10',140),
+    ('71','28',140),
+    ('76','00',140),
+    ('71','31',100),
+    ('76','51',190),
+    ('71','40',140),
+    ('75','00',140),
+    ('75','99',140),
+    ('71','44',140);
