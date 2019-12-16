@@ -9,7 +9,7 @@
 75.12	Análisis Numérico I	6	61.03 - 61.08 - 75.01
 76.01	Introduc. a la Ingeniería Química I	8	61.03 - 61.08 - 63.02 - 63.03 - 75.01
 61.14	Matemática Especial para Ing. Química	8	61.03 - 61.08
-63.06	Química Física	I	8	62.04 - 63.02
+63.06	Química Física I	8	62.04 - 63.02
 76.02	Introduc. a la Ingenieria Química II	8	76.01
 63.05	Química Analítica	8	63.03
 63.07	Química Física II	6	63.06
